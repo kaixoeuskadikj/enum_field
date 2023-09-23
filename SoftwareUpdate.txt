@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
