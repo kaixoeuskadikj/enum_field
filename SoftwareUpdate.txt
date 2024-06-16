@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Avoid creating -hub dir without processing images (#8334)
